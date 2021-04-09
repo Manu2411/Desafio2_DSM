@@ -24,7 +24,7 @@ public class MainActivity extends AppCompatActivity {
         setContentView(R.layout.activity_main);
 
         M1 = (Button)findViewById(R.id.btn_M1);
-       /* M2 = (Button)findViewById(R.id.btn_M2);
+        M2 = (Button)findViewById(R.id.btn_M2);
         M3 = (Button)findViewById(R.id.btn_M3);
         M4 = (Button)findViewById(R.id.btn_M4);
         M5 = (Button)findViewById(R.id.btn_M5);
@@ -32,7 +32,7 @@ public class MainActivity extends AppCompatActivity {
         M7 = (Button)findViewById(R.id.btn_M7);
         M8 = (Button)findViewById(R.id.btn_M8);
         M9 = (Button)findViewById(R.id.btn_M9);
-        M10 = (Button)findViewById(R.id.btn_M10);*/
+        M10 = (Button)findViewById(R.id.btn_M10);
 
 
         //Colocando las imagenes en los ImageView
